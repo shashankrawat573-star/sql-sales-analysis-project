@@ -1,0 +1,15 @@
+Sales-Analysis-SQL-Project/
+│
+├── advanced_sql/
+│   ├── 01_top3_customers_rank.sql
+│   ├── 02_month_over_month_growth.sql
+│   ├── 03_running_total_sales.sql
+│   ├── 04_repeat_customers.sql
+│   ├── 05_customers_no_orders.sql
+│   ├── 06_revenue_by_payment_mode_pivot.sql
+│   ├── 07_latest_order_each_customer.sql
+│   ├── 08_product_revenue_percentage.sql
+│   ├── 09_customer_lifetime_value.sql
+│   ├── 10_city_with_highest_orders.sql
+│   ├── 11_revenue_by_category.sql
+│   ├── 12_last_12_months_revenue_trend.sql
