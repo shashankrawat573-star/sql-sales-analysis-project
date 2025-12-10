@@ -6,15 +6,15 @@ To analyze sales data using SQL queries in SSMS and generate meaningful business
 
 **Project Overview**
 This project contains SQL queries commonly used in real-world sales analysis:
-Monthly sales summary
-Top customers by revenue
-Product sales analysis
-Revenue by city
-Customer and order filters
-CTE-based transformations
-Ranking cities by revenue
-Aggregation and grouping
-Payment mode analysis
+Monthly sales summary,
+Top customers by revenue,
+Product sales analysis,
+Revenue by city,
+Customer and order filters,
+CTE-based transformations,
+Ranking cities by revenue,
+Aggregation and grouping,
+Payment mode analysis,
 Date-based filtering
 
 ## Tools Used
